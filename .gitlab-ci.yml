@@ -1,0 +1,11 @@
+image: node:latest
+
+pages:
+  script:
+    - npm install -g docsify-cli
+    - cp -r docs/* public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
