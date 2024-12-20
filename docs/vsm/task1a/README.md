@@ -1,7 +1,7 @@
 ## **Value Stream Mapping (VSM) - Help Project Manager streamline processes**  
    Using Value Stream Mapping (VSM) to analyze and streamline the operational efficiency of a 11-member customer support team. The goal is to identify inefficiencies and enhance overall team performance to reduce delays and improve customer satisfaction ratings to help project manager with streamline processes
 
-### Here our VSM task https://miro.com/app/board/uXjVL5xrtCo=/
+### Here our VSM task - https://miro.com/app/board/uXjVL5xrtCo=/
 
 
 ## Data for Analyze
@@ -30,7 +30,7 @@
 
 ### **Construct detailed VSM of the existing workflow. Clearly differentiate between value-added and non-value-added activities, highlighting rework as part of the latter**
 
-![1](task1a/data/cvsm.png)
+![1](data/cvsm.png)
 ```
    Explanation: Current State Value Stream Map (VSM) you provided visually represents the current process flow of the customer support team, from ticket triage to customer feedback. Here we have 
 1. Cycle Time - expresses the average time it takes to process raw materials into a completed end-product
@@ -75,7 +75,7 @@ calculation for finding detailed numbers
 
 ### **Lead Time - compute the total time it takes for a ticket to progress from receipt to resolution under the current system**
 
-![lt](task1a/data/LT.png)
+![lt](data/LT.png)
 ```
 calculation of Lead Time
 - Cycle Time = 20 + 40 +60 +30 +10 = 160
@@ -85,7 +85,7 @@ calculation of Lead Time
 ```
 ### **Analyze process efficiencies - identify stages with the highest waiting times and rework percentages. Discuss how these inefficiencies impact the system's overall performance**
 
-![3](task1a/data/3.png)
+![3](data/3.png)
 ```
 calculation of Process efficiency
 - Lead Time = 492 min
@@ -95,17 +95,17 @@ calculation of Process efficiency
 ```
 ### **Evaluate output quality – analyze the quality rates for each stage. Identify stages with the highest defect rates and propose targeted quality improvement measures**
 
-![4](task1a/data/4.png)
+![4](data/4.png)
 
 
 ### **Assess workload distribution and WIP - evaluate the workload and work-in-progress (WIP) at each stage. Identify resource imbalances and propose strategies to optimize resource allocation and reduce WIP**
 
-![5](task1a/data/5.png)
+![5](data/5.png)
 
 
 ### **Determine system throughput - calculate the current throughput of the team, considering employee capacity constraints. Discuss how throughput limitations affect customer service levels**
 
-![6](task1a/data/6.png)
+![6](data/6.png)
 ```
    Throughput - is amount of something (tickets) that passes through something (process stages)
    Quality check has 16 ticket/day is very low and it is reason to get a bottleneck here
@@ -114,17 +114,17 @@ calculation of Process efficiency
 ```
 ### **Identify Non VAT activities - highlight activities that do not contribute to value addition. Propose methods to eliminate or minimize NVAT to streamline the process**
 
-![7](task1a/data/7.png)
+![7](data/7.png)
 
 
 ### **Examine causes of inefficiencies - analyze the causes of delays, rework, and resource bottlenecks. Discuss structural or systemic issues contributing to these inefficiencies**
 
-![8](task1a/data/8.png)
+![8](data/8.png)
 
 
 ### **Design a future VSM - propose a redesigned workflow, incorporating your recommendations to improve efficiency and reduce delays**
 
-![9](task1a/data/9.png)
+![9](data/9.png)
 ```
 Key Recommendations:
    - Improve Quality: 
@@ -197,7 +197,7 @@ Cycle Time:
 - Process Efficiency = (95 / 425) * 100 = 22.3% 
 ```
 ### FUTURE STATE VALUE STREAM MAP - provide a vision for where the product is headed in the future, which guides all investment and decision making
-![fm](task1a/data/fm.png)
+![fm](data/fm.png)
 
 ```
 - Kanban - visual workflow management method that uses cards and boards to track tasks and ensure efficient work progress, often associated with Lean and Agile practices - Need to use for every stages
@@ -207,4 +207,4 @@ Cycle Time:
 
 ### **Describe findings and recommendations - summarize your findings and provide actionable recommendations to enhance team productivity and overall process efficiency**
 
-![10](task1a/data/10.png)
+![10](data/10.png)

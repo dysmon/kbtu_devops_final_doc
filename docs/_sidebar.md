@@ -15,6 +15,6 @@
     * [Vault](final_infra/vault_role.md)
     * [Consul](final_infra/consul_role.md)
 * VSM
-  * soon
+  * [VSM](vsm/task1a/README.md)
 * Semester Tasks
   * soon
