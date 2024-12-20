@@ -27,8 +27,8 @@ Maximize the total profit from producing Product A and Product B:
    - x and y non negative   
 
 ## Solution of task by mathematical analysis
-![01](task1b/01b.jpg)
-![11](task1b/11b.jpg)
+![01](01b.jpg)
+![11](11b.jpg)
 
 ## General solution without overshooting
    ```python
@@ -60,6 +60,6 @@ Maximize the total profit from producing Product A and Product B:
 ![this code](pyp.py) you can check here 
 
 ## Result
-![result](task1b/result.png)
+![result](result.png)
 
 ## Answer The maximum profit is at (50,0), giving a profit of $1500 by the solution of math and general solution by python(pupl)
