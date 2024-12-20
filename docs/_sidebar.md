@@ -16,5 +16,7 @@
     * [Consul](final_infra/consul_role.md)
 * VSM
   * [VSM](vsm/task1a/README.md)
-* Semester Tasks
-  * soon
+* 0.1 - 0.5 Tasks
+  * [task1](semester_tasks/task1/README.md)
+  * [task2](semester_tasks/task2/README.md)
+  * [task3](semester_tasks/task3/README.md)
